@@ -1,4 +1,4 @@
-module github.com/Fedodo.HomePage.Theme
+module github.com/Fedodo/Fedodo.HomePage.Theme
 
 go 1.12
 
