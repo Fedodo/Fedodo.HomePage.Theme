@@ -183,15 +183,17 @@ params:
     socialmedia:
     - link: https://github.com/lucperkins/github-fresh
       # Icons are from Font Awesome
-      icon: github
+      icon: fa-brands fa-github
     - link: https://dribbble.com/#
-      icon: dribbble
+      icon: fa-brands fa-dribbble
     - link: https://facebook.com/#
-      icon: facebook
+      icon: fa-brands fa-facebook
     - link: https://twitter.com/lucperkins
-      icon: twitter
+      icon: fa-brands fa-twitter
     - link: https://bitbucket.org/#
-      icon: bitbucket
+      icon: fa-brands fa-bitbucket
+    - link: https://bitbucket.org/#
+      icon: fa-brands fa-mastodon
     bulmalogo: true
     quicklinks:
       column1:
