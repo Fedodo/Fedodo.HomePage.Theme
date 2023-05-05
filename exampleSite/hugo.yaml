@@ -176,7 +176,7 @@ params:
     # method: POST
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: Fedodo Circle Dark.svg
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
